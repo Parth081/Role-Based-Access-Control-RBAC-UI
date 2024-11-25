@@ -27,11 +27,13 @@ This project is a Role-Based Access Control (RBAC) UI built with React and Redux
 2. Install dependencies:
 ```bash
 npm install
+
 3. Initialize the Project:
 ```bash
-npx create-react-app rbac-ui-assignment
-cd rbac-ui-assignment
+   npx create-react-app rbac-ui-assignment
+  cd rbac-ui-assignment
+
 4. Install Dependencies:
 ```bash
-npm install redux react-redux axios
+   npm install redux react-redux axios
 
