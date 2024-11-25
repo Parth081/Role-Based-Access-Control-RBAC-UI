@@ -24,3 +24,5 @@ This project is a Role-Based Access Control (RBAC) UI built with React and Redux
    ```bash
    git clone https://github.com/yourusername/rbac-ui-assignment.git
    cd rbac-ui-assignment
+Install dependencies:
+npm install
