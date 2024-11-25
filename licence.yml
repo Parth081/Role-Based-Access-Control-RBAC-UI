@@ -1,0 +1,13 @@
+
+---
+
+### **Finalizing the Submission**
+
+1. **Push to GitHub**: Once complete, push your code to GitHub, ensuring all files are included.
+
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin https://github.com/yourusername/rbac-ui-assignment.git
+   git push -u origin main
